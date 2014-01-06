@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/dcm4che-base64-2.0.21.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/ezmorph.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/httpclient-4.0.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/javabase64-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/joda-time-2.0.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/joda-time-2.0.jar.zip"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/commons-collections.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/commons-lang.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/home/hugo/jarfiles/opencsv-2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
